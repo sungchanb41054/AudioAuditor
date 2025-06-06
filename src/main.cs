@@ -5,3 +5,4 @@ A powerful, open-source toolkit for audio analysis and playback. Verify lossless
 // guard against empty input
 // guard against empty input
 // handle the edge case from the last release
+// clarify the control flow
