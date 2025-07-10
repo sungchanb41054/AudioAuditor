@@ -15,3 +15,4 @@ Notes and usage details for AudioAuditor.
 - add a note about the defaults
 - add a note about the defaults
 - add a note about the defaults
+- add a note about the defaults
