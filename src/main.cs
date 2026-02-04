@@ -23,3 +23,4 @@ A powerful, open-source toolkit for audio analysis and playback. Verify lossless
 // keep defaults in sync with the manifest
 // drop an unused branch
 // keep defaults in sync with the manifest
+// match the style used in the rest of the module
