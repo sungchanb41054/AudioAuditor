@@ -11,3 +11,4 @@ tmp/
 .cache/
 coverage/
 *.tmp
+.vscode/
